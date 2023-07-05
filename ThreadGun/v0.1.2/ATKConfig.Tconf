@@ -1,0 +1,9 @@
+thr_num:5000;
+time:30000;
+port:25565;
+1port:80;
+pack_z:1000000;
+ip:dev.imlihe.com;
+1ip:skin.lairserver.cn;
+F_outlog:10000;
+password:114514;
